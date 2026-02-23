@@ -6,7 +6,7 @@
 | --------------------- | ------------------------------------- |
 | :sparkles: Nome       | **Drink Water**          |
 | :label: Tecnologias   | html, css, javascript                 |
-| :rocket: URL          |  |
+| :rocket: URL          | https://counterwater.netlify.app/ |
 
 
 ## About
